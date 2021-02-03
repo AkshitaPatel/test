@@ -12,7 +12,7 @@ public class AppTest {
 		a.a = 5;
 		a.b=10;
 		assertEquals(15, a.add());
-		assertEquals(-15, a.substract());
+		assertEquals(-5, a.substract());
 		
 	}
 
